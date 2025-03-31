@@ -44,9 +44,9 @@ For a visual guide, below are the expected outputs for different screen sizes, s
 
 ### Expected Output for Desktop View
 
-![Expected Output Desktop](./assets/Expected_Output_Desktop.png)
+[Expected Output Desktop]![image](https://github.com/user-attachments/assets/3580ce12-d869-43a5-92bc-727625aa8a8e)
 
-### Expected Output for Mobile and Tablet View
 
-![Expected Output Mobile](./assets/Expected_Output_Mobile.png)
-# Email Template Webpage
+
+
+
